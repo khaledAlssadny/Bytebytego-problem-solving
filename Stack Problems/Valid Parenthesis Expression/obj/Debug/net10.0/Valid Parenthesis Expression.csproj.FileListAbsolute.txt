@@ -1,0 +1,14 @@
+F:\ITI\Stack Problems\Valid Parenthesis Expression\bin\Debug\net10.0\Valid Parenthesis Expression.exe
+F:\ITI\Stack Problems\Valid Parenthesis Expression\bin\Debug\net10.0\Valid Parenthesis Expression.deps.json
+F:\ITI\Stack Problems\Valid Parenthesis Expression\bin\Debug\net10.0\Valid Parenthesis Expression.runtimeconfig.json
+F:\ITI\Stack Problems\Valid Parenthesis Expression\bin\Debug\net10.0\Valid Parenthesis Expression.dll
+F:\ITI\Stack Problems\Valid Parenthesis Expression\bin\Debug\net10.0\Valid Parenthesis Expression.pdb
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.AssemblyInfoInputs.cache
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.AssemblyInfo.cs
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.csproj.CoreCompileInputs.cache
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.dll
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\refint\Valid Parenthesis Expression.dll
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.pdb
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\Valid Parenthesis Expression.genruntimeconfig.cache
+F:\ITI\Stack Problems\Valid Parenthesis Expression\obj\Debug\net10.0\ref\Valid Parenthesis Expression.dll
