@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "Valid Parenthesis Expression/1.0.0": {
+      "Next Largest Number to the Right/1.0.0": {
         "runtime": {
-          "Valid Parenthesis Expression.dll": {}
+          "Next Largest Number to the Right.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Valid Parenthesis Expression/1.0.0": {
+    "Next Largest Number to the Right/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

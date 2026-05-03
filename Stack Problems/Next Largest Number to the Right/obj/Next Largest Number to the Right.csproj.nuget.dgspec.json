@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Valid Parenthesis Expression\\Valid Parenthesis Expression.csproj": {}
+    "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Next Largest Number to the Right\\Next Largest Number to the Right.csproj": {}
   },
   "projects": {
-    "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Valid Parenthesis Expression\\Valid Parenthesis Expression.csproj": {
+    "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Next Largest Number to the Right\\Next Largest Number to the Right.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Valid Parenthesis Expression\\Valid Parenthesis Expression.csproj",
-        "projectName": "Valid Parenthesis Expression",
-        "projectPath": "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Valid Parenthesis Expression\\Valid Parenthesis Expression.csproj",
+        "projectUniqueName": "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Next Largest Number to the Right\\Next Largest Number to the Right.csproj",
+        "projectName": "Next Largest Number to the Right",
+        "projectPath": "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Next Largest Number to the Right\\Next Largest Number to the Right.csproj",
         "packagesPath": "C:\\Users\\khale\\.nuget\\packages\\",
-        "outputPath": "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Valid Parenthesis Expression\\obj\\",
+        "outputPath": "F:\\ITI\\bytebytego_coding_problems\\Stack Problems\\Next Largest Number to the Right\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

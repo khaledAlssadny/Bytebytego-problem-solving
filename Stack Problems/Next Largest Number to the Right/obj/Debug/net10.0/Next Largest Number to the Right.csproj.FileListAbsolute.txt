@@ -1,0 +1,15 @@
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\bin\Debug\net10.0\Next Largest Number to the Right.exe
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\bin\Debug\net10.0\Next Largest Number to the Right.deps.json
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\bin\Debug\net10.0\Next Largest Number to the Right.runtimeconfig.json
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\bin\Debug\net10.0\Next Largest Number to the Right.dll
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\bin\Debug\net10.0\Next Largest Number to the Right.pdb
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.AssemblyInfoInputs.cache
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.AssemblyInfo.cs
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.csproj.CoreCompileInputs.cache
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.sourcelink.json
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.dll
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\refint\Next Largest Number to the Right.dll
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.pdb
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\Next Largest Number to the Right.genruntimeconfig.cache
+F:\ITI\bytebytego_coding_problems\Stack Problems\Next Largest Number to the Right\obj\Debug\net10.0\ref\Next Largest Number to the Right.dll
